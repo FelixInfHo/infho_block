@@ -1,6 +1,6 @@
-*youtube.com
-*mit.edu
+youtube.com
+mit.edu
 scratch.mit.edu
-*discord.com
+discord.com
 discordapp.com
-	*gate-to-the-games.de
+gate-to-the-games.de
