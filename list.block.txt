@@ -1,5 +1,3 @@
-||discord.com^
-||discordapp.com^
 ||gate-to-the-games.de^
 ||99nights.org^
 ||fandom.org^
@@ -32,12 +30,9 @@
 ||veck.io^
 ||snake.io^
 ||kour.io^
-||holeio.com^
-||hahagames.com^
+holeio
+hahagames
 ||gamepix.com^
-
-
-
-
-
-
+||kevin.games^
+||crazygames.id^
+crazygames
