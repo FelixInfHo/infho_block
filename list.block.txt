@@ -29,7 +29,9 @@
 ||1games.io^
 ||slitherioonline.com^
 ||slither-io.org^
+||veck.io^
 ||snake.io^
+||kour.io^
 
 
 
