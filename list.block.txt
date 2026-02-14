@@ -26,7 +26,9 @@
 ||minecraft.best^
 ||aternos.me^
 ||gamepass.com^
-
+||1games.io^
+||slitherioonline.com^
+||slither-io.org^
 
 
 
