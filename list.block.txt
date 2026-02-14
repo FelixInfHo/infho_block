@@ -30,11 +30,12 @@
 ||crazygames.id^
 ||www.poki.com^
 ||poki.us.com^
+||2v2.io^
 ^.*crazygames.*$
 ^.*holeio.*$
 ^.*hahagames.*$
 ^.*hypixel.*$
 ^.*stimulation-clicker.*$
 ^.*gommehd.*$
-^.*gommehd.*$
+^.*gamemonetize.*$
 ^.*gommehd.*$
