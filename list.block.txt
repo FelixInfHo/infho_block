@@ -9,18 +9,16 @@
 ||justdoinghomework.com^
 ||schoolschoolschool.com^
 ||neal.fun^
-||stimulation-clicker.org^
-||stimulation-clicker.com^
+stimulation-clicker
 ||eaglercraft.com^
-||crazygames.io^
 ||2b2t.org^
 ||norisk.gg^
 ||hoplite.gg^
-||gommehd.com^
+gommehd
 ||donutsmp.net^
 ||pvphub.me^
 ||bendersmc.co^
-||hypixel.net^
+hypixel
 ||minecraft.best^
 ||aternos.me^
 ||gamepass.com^
@@ -36,3 +34,5 @@ hahagames
 ||kevin.games^
 ||crazygames.id^
 crazygames
+www.poki.com^
+||poki.us.com^
