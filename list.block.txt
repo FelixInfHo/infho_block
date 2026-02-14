@@ -29,6 +29,8 @@
 ||1games.io^
 ||slitherioonline.com^
 ||slither-io.org^
+||snake.io^
+
 
 
 
